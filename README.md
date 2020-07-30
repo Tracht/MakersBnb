@@ -1,4 +1,4 @@
-# Makersbnb [![Build Status](https://travis-ci.org/Tracht/MakersBnb.svg?branch=master)](https://travis-ci.org/Tracht/MakersBnb)
+# Makersbnb
 
 ## Preview
 <img width="320" alt="makersbnb-welcome" src="https://user-images.githubusercontent.com/28805811/83120379-e3902700-a0c8-11ea-86a9-c15d959142f8.png">
