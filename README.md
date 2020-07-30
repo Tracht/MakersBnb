@@ -28,9 +28,9 @@ This is a simplified clone of the famous Airbnb.
 
 <img width="320" alt="MakersBnB-signup" src="https://user-images.githubusercontent.com/28805811/83120467-04587c80-a0c9-11ea-9768-45350996c04e.png">
 
-## To run this on your local machine
+## Installation Guide
 
-* Clone the repository.
+* Clone the repository. Make sure you already have a [Ruby Version Manager](https://rvm.io) installed. 
 * In the command line, run `bundle install`. This will install all of the project's dependencies. 
 * You will also need to set up the database (see below).
 
@@ -56,10 +56,10 @@ ALTER ROLE postgres WITH SUPERUSER;
 ```
 
 ## Testing
-- To run Feature and Unit tests from the command line, run this script: `./test/tdd.test`.
+To run Feature and Unit tests from the command line, run this script: `./test/tdd.test`.
 - This will run Rspec, with SimpleCov, followed by RuboCop.
 
-- To test in browser, run this script: `./test/web.test`
+To test in browser, run this script: `./test/web.test`.
 - This will open Chrome in incognito mode and load http://localhost:9292. You might need to refresh to see the page.
 
 ## User Stories
