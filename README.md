@@ -1,5 +1,5 @@
 # Makersbnb
-This is a simplified clone of the famous Airbnb. 
+This is a simplified clone of Airbnb. 
 
 ## Features
 - Any signed-up user can list a new space.
